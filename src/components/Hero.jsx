@@ -7,7 +7,7 @@ const Hero = () => {
               <img src={logo} alt='logo' className='w-28 object-contain'/>
 
               <button type='button'
-              onClick={() => window.open('https://chat.openai.com/')}
+              onClick={() => window.open('https://github.com/AnishRane13/AI_Article_Summarizer')}
               className='black_btn'
               >Github</button>
           </nav>
